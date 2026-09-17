@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chitra867&label=Profile%20views&color=0e75b6&style=flat" alt="chitra867" /> </p>
 
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=chitra867" alt="chitra867" /></a> </p>
-
 - 🔭 I’m currently working on **Learning web development and creating small projects to improve my skills.**
 
 - 🌱 I’m currently learning **HTML,CSS,JAVASCRIPT**
